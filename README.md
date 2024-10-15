@@ -1,17 +1,21 @@
 # My Android App
 
-## This is an Android application that demonstrates Background changes functionality. Below are some output images showing the app's functionality.
+## Overview
+
+This Android application demonstrates background color changes when a button is clicked. Below are screenshots illustrating the functionality.
 
 ## Output Screenshots
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-
-
-
-<!-- For side by side -->
-<div style="display: flex; justify-content: space-around;">
-Before Button Click
-    <img src="/app/src/main/res/op1.png" alt="Output1" width="300"/>  
-After Button Click
-    <img src="/app/src/main/res/op2.png" alt="Output2" width="300"/>
+  <div style="text-align: center;">
+    <p><strong>1. Before Button Click</strong></p>
+    <img src="/app/src/main/res/op1.png" alt="Before Button Click" width="300"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <p><strong>2. After Button Click</strong></p>
+    <img src="/app/src/main/res/op2.png" alt="After Button Click" width="300"/>
+  </div>
+  
 </div>
